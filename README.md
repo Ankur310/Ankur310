@@ -12,3 +12,6 @@
 
 ## TOP PROGRAMMING LANGAUGES
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankur310&show_icons=true&theme=dracula)
+
+## TECHNICAL SKILLS
+<img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff">
