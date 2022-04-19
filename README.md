@@ -14,5 +14,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankur310&show_icons=true&theme=dracula)
 
 ## TECHNICAL SKILLS
+<div style="display: "flex"">
 <img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff">
 <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=fff">
+  </div>
