@@ -11,3 +11,4 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Ankur310&theme=radical)
 
 ## TOP PROGRAMMING LANGAUGES
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankur310&show_icons=true&theme=dracula)
