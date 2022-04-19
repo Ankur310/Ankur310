@@ -1,7 +1,5 @@
+<h1 style= "align: "center"">Hii 👋 there, I'm Ankur! </h1>
 <a><img align="center" src="https://raw.githubusercontent.com/Ankur310/Ankur310/main/how-to-troubleshoot-java-cpu.jpg"/></a>
-
-
-### Hii 👋 there, I'm Ankur!
 
 ## ABOUT ME
 - BACKEND DEVELOPER
