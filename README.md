@@ -15,3 +15,4 @@
 
 ## TECHNICAL SKILLS
 <img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff">
+<img src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=fff">
