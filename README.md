@@ -6,3 +6,7 @@
 ## ABOUT ME
 - BACKEND DEVELOPER
 - Problem Solver (Data Structures And Algorithm)
+
+## GIT STATS
+
+## TOP PROGRAMMING LANGAUGES
