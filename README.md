@@ -1,4 +1,4 @@
-<h1 style= "text-align: "center"">Hii 👋 there, I'm Ankur Singh! </h1>
+<h1 align="center">Hii 👋 there, I'm Ankur Singh! </h1>
 <a><img align="center" src="https://raw.githubusercontent.com/Ankur310/Ankur310/main/how-to-troubleshoot-java-cpu.jpg"/></a>
 
 ## ABOUT ME
