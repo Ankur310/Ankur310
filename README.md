@@ -8,5 +8,6 @@
 - Problem Solver (Data Structures And Algorithm)
 
 ## GIT STATS
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Ankur310&theme=radical)
 
 ## TOP PROGRAMMING LANGAUGES
